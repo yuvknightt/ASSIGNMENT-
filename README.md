@@ -12,7 +12,7 @@ npm start
 npm install
 npm start 
 
-# to make some one admin 
+# To make some one admin 
 Send this via body to backend
 
 {
@@ -22,6 +22,7 @@ Send this via body to backend
     "email" : "",
     "password": ""
 }
+
 
 
 
